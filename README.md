@@ -106,6 +106,7 @@ Full policy: [traceaifacescan.app/privacy](https://traceaifacescan.app/privacy)
 - [FaceCheck.ID alternative](https://traceaifacescan.app/facecheck-id-alternative/?utm_source=github&utm_medium=referral&utm_campaign=api-repo)
 - [API documentation](https://traceaifacescan.app/ai-face-scan-api/?utm_source=github&utm_medium=referral&utm_campaign=api-repo)
 - [Try it without writing code](https://huggingface.co/spaces/muratcankuru/reverse-face-search) — Hugging Face Space
+- [On Apify](https://apify.com/muratcankuru/reverse-face-search) — run it as an Actor, no code
 
 ## License
 
